@@ -2,7 +2,7 @@ description = 'Shared code between FredBoat modules'
 version '1.0'
 ext {
     moduleName = 'Shared'
-}
+}OTU2NjU1ODk5MTkwMTMyNzg4.YjzZPA.BqzAfnMKQDYMMjlaLs1_KnAlbnk
 
 apply plugin: 'maven-publish'
 apply plugin: 'kotlin'
